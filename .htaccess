@@ -1,0 +1,4 @@
+DirectoryIndex /index.html
+
+# Custom Error Pages (Change paths to match your actual files)
+ErrorDocument 404 /index.html
